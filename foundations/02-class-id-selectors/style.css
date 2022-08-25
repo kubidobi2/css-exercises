@@ -1,0 +1,15 @@
+#second {
+    font-size: 36px; font-family: Verdana, Geneva, Tahoma, sans-serif; color: rgb(0, 81, 255);
+}
+
+#forth {
+    font-size: 24px; font-family: Verdana, Geneva, Tahoma, sans-serif; font-weight: bold; background-color: rgb(73, 255, 70);
+}
+
+.first {
+    background-color: rgb(255, 147, 160); font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.first#third {
+    font-size: 24px;
+}

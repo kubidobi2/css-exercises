@@ -1,0 +1,11 @@
+.container,
+.text {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;  
+}
+
+.container {
+    color: red;
+    text-align: center;
+    background-color: yellow;
+    font-size: 25px;
+}
